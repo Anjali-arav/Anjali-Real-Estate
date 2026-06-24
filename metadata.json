@@ -1,0 +1,6 @@
+{
+  "name": "Anjali Real Estate",
+  "description": "Premium luxury real estate consultancy in Jubilee Hills, Hyderabad. Find your dream apartments, villas, and commercial spaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
